@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77fe3932cf9753e46b3354c1c18761c5
+timeCreated: 1488543736
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FONTSPRING DEMO - Blue Sheep
+  fontNames:
+  - FONTSPRING DEMO - Blue Sheep
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
